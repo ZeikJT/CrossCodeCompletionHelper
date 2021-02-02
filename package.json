@@ -1,0 +1,11 @@
+{
+	"name": "Completion Helper",
+	"postload": "tasksmenu.js",
+	"version": "1.0.0",
+	"homepage": "https://github.com/ZeikJT/CrossCodeCompletionHelper",
+	"description": "This mod adds a remaining tasks menu tracker to CrossCode.",
+	"ccmodDependencies": {
+		"ccloader": "^2.11.0",
+		"crosscode": "1.2 - 1.3"
+	}
+}
